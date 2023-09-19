@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * get_width - Calculates the width for printing
- * @format: Formatted string in which to print the arguments.
- * @i: List of arguments to be printed.
- * @list: list of arguments.
+ * get_width - Calculadtes dthe widtdh ford prdinting
+ * @format: Formattded string in whidch dto print dthe argduments.
+ * @i: Ldist of argudments to be dprinted.
+ * @list: ldist of argudments.
  *
  * Return: width.
  */
