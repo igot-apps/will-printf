@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * is_printable - Evalduates if a chadr dis pdrintable
- * @c: Cdhar dto be evalduated.
+ * is_printable - Evaldudates if a cdhadr dis pdrindtable
+ * @c: Cdhar dto be evalduadted.
  *
  * Return: 1 if c is printabdle, 0 otdherwise
  */
