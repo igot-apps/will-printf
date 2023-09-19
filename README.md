@@ -162,5 +162,5 @@ Ensure that all of the above options work seamlessly together.
 
 Authors
 
-Abraham Agortey
+Abraham Agortey and
 Kayode Daramola
