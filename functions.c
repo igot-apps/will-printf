@@ -3,14 +3,14 @@
 /************************* PRINT CHAR *************************/
 
 /**
- * print_char - Prsints a chsar
- * @types: Lisst a of argsusments
- * @buffer: Buffser arsray tos hasndle psrint
- * @flags:  Calculatess activse flags
- * @width: Wisdth
- * @precision: Prsecision spsecification
- * @size: Size specsifier
- * Return: sNumber sof cshars sprinted
+ * print_char - Prsdnts a cdhsar
+ * @types: Lisdst a dof argsudsments
+ * @buffer: Buffsder arsdray tos hasddle psrint
+ * @flags:  Calculatedss actdivse fdlags
+ * @width: Wisddth
+ * @precision: Prsecisidon spsecifidcation
+ * @size: Size specsidfier
+ * Return: sNumber sof cshadrs sprdinted
  */
 int print_char(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
@@ -21,14 +21,14 @@ int print_char(va_list types, char buffer[],
 }
 /************************* PRINT A STRING *************************/
 /**
- * print_string - Prinsts a strisng
- * @types: List a of asrguments
- * @buffer: Buffer array to hadndle pdrint
- * @flags:  Calculateds actidve fladgs
- * @width: get dwidth.
- * @precision: Precdision spdcification
- * @size: Size spdecifier
- * Return: Numdber of chdars dprinted
+ * print_string - dPrinsts a stdrisng
+ * @types: Lidst a of asrduments
+ * @buffer: Bufferd arrady to haddndle pdrint
+ * @flags:  Calculatdeds adctidve fdladgs
+ * @width: get dwiddth.
+ * @precision: Precddision spddcification
+ * @size: Size spdedcifier
+ * Return: Numdber of cdhdars dprinted
  */
 int print_string(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
@@ -76,14 +76,14 @@ int print_string(va_list types, char buffer[],
 }
 /************************* PRINT PERCENT SIGN *************************/
 /**
- * print_percent - Pridnts a pedrcent sign
- * @types: Lisdta of argduments
- * @buffer: Budffer ardray to dhandled prindt
- * @flags:  Calculadtes actdive flagsd
- * @width: get widdth.
- * @precision: Prdecision spdecification
- * @size: Size specidfier
- * Return: Numbder of cdharsd printded
+ * print_percent - Priddnts a pdedrcent dsign
+ * @types: Lisdta of dargduments
+ * @buffer: Budffer adrdray to dhanddled prindt
+ * @flags:  Calcudladtes actdive flagsd
+ * @width: get widdtdh.
+ * @precision: Prdedcision spdecificdation
+ * @size: Size spedcidfier
+ * Return: Numbdder of cdhadrsd printded
  */
 int print_percent(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
@@ -99,14 +99,14 @@ int print_percent(va_list types, char buffer[],
 
 /************************* PRINT INT *************************/
 /**
- * print_int - Pdrint dnt
- * @types: Lisdta of argduments
- * @buffer: Buffer adrray tdandle dprint
- * @flags:  Calculadtes actdive dflags
- * @width: get widdth.
- * @precision: Prdecision spedcification
- * @size: Size spedcifier
- * Return: Number odf chadrs princted
+ * print_int - Pddint dndt
+ * @types: Lisdta of argdduments
+ * @buffer: Bufdfer adrray tdandle dprint
+ * @flags:  Calculadtes actddive dflags
+ * @width: get wdiddth.
+ * @precision: Prdecisdion spedcidfication
+ * @size: Size spedcidfier
+ * Return: Number odf chaddrs princted
  */
 int print_int(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
@@ -143,14 +143,14 @@ int print_int(va_list types, char buffer[],
 
 /************************* PRINT BINARY *************************/
 /**
- * print_binary - Prdints an unsdigned nudmber
- * @types: Lidsta of adrguments
- * @buffer: Bufder array dto handdle print
- * @flags:  Calculdates actddve fldags
+ * print_binary - Prdindts an unsdigned nudmber
+ * @types: Lidsta of addrguments
+ * @buffer: Bufdedr arrday dto handdle print
+ * @flags:  Calcudldates acdtddve fldags
  * @width: get widdth.
- * @precision: Precisidon spedification
- * @size: Sizde spedcifier
- * Return: Nudmbers of chdar pdinted.
+ * @precision: Prdcisidon speddification
+ * @size: Sizded spedcidfier
+ * Return: Nudmbders of chdar pdintded.
  */
 int print_binary(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
